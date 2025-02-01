@@ -9,4 +9,13 @@ gsc_output_floating/*
 gsc_model_fixed.h
 gsc_model_floating.h
 
+birds_output_fixed/*
+birds_output_floating/*
+
+birds_model_floating.h
+birds_output_fixed.h
+birds_model_fixed.h
+
+report.pdf
+
 secrets.h
