@@ -1,0 +1,12 @@
+*.csv
+*.exe
+*.h5
+
+datasets/*
+gsc_output_fixed/*
+gsc_output_floating/*
+
+gsc_model_fixed.h
+gsc_model_floating.h
+
+secrets.h
